@@ -1,6 +1,6 @@
 # practo_assgnment
 
-i have used tmdp api to fetch and console the data by default harry potter is set as movie you can add your by adding in the run command node index.js <your movie>
+i have used tmdb api to fetch and console the data by default harry potter is set as movie you can add your by adding in the run command node index.js <your movie>
   this console all the name and movie matched if not exact name is given . Thankyou
 usage 
 
