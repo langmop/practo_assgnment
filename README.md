@@ -10,4 +10,4 @@ step 2 . cd practo_assignment
 
 step 3 . npm install 
 
-step 4 . node index.js <movie name>
+step 4 . node index.js "movie name" without quotes
