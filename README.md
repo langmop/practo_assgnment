@@ -4,7 +4,7 @@ i have used tmdb api to fetch and console the data by default harry potter is se
   this console all the name and movie matched if not exact name is given . Thankyou
 usage 
 
-step 1 . git clone https://github.com/langmop/practo_assgnment.git
+step 1 . git clone https://github.com/langmop/practo_assignment.git
 
 step 2 . cd practo_assignment
 
