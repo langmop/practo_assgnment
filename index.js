@@ -1,5 +1,6 @@
 const MovieDB = require("moviedb")("1217352f09c7fa5f7527202dc0ad7c4f");
-const movie_name = process.argv[2] || "harry potter";
+const movie_name = process.argv.slice(2).join(" ") || "harry potter";
+
 // if no name given while running using node index.js "any name " harry potter is default
 // any movie you like
 // if name is not specific all related movies with name and rating will be consoled
